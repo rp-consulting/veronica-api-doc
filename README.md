@@ -6,4 +6,4 @@
 
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-login-3.jpg" width="654">
 
-<img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-login-3.jpg" width="654">
+<img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-login-4.jpg" width="654">
