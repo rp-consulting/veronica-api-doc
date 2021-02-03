@@ -14,3 +14,9 @@
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-2.jpg" width="600">
 
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-3.jpg" width="600">
+
+<img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-4.jpg" width="600">
+
+<img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-5.jpg" width="600">
+
+<img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-6.jpg" width="600">
