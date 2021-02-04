@@ -3,6 +3,7 @@ A través de Verónica, usted podrá autogestionar los certificados digitales de
 
 Por cuestiones de seguridad, una vez creada una firma electrónica en Verónica, usted ya no podrá descargarla.
 
+## Creación
 Antes de poder empezar la emisión de comprobantes electrónicos, es importante que usted registre su archivo de firma electrónica asociado a su R.U.C. emisor. Para esto, por favor seguir los siguientes pasos:
 
 1. Dentro de la suite de servicios RESTful, usted encontrará el grupo de `Certificados digitales`. Haga clic en la sección indicada en la figura siguiente, en donde podrá ver tres diferentes servicios que le permitirán eliminar, listar y crear una firma electrónica respectivamente.
@@ -27,11 +28,12 @@ Antes de poder empezar la emisión de comprobantes electrónicos, es importante 
 
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-3.jpg" width="600">
 
-4. Cuando finalize el paso anterior, podrá consultar si su certificado de firma fue dado de alta exitosametne.
+## Lectura
+1. Una vez creado su certificado digital, usted podrá consultar si fue dada de alta exitosametne.
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-4.jpg" width="600">
 
-5. Deberá dejar los valores por defecto y a continuación hacer clic en el botón `Execute`.
+2. Deberá dejar los valores por defecto y a continuación hacer clic en el botón `Execute`.
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-5.jpg" width="600">
 
-6. Si su certificado fue dado de alta satisfactoriamente, deberá visualizar algo parecido a lo mostrado en la imagen siguiente:
+3. Si su certificado fue dado de alta satisfactoriamente, deberá visualizar algo parecido a lo mostrado en la imagen siguiente:
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-6.jpg" width="600">
