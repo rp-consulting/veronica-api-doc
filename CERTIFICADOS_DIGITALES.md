@@ -9,10 +9,13 @@ Antes de poder empezar la emisión de comprobantes electrónicos, es importante 
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-1.jpg" width="600">
 Aquí podrá ver tres diferentes servicios que le permitirán eliminar, listar y crear una firma electrónica respectivamente.
 
+
 2. Haga clic en la opción para crear una nueva firma electrónica y a continuación haga clic en el botón `Try it out`.
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-2.jpg" width="600">
 
+
 3. Esto le habilitará la opción para indicar los valores asociados a su certificado digital. En este punto es importante contar con el archivo de extensión `.p12` así como la contraseña del mismo.
+
 
 A continuación, deberá seguir los siguentes pasos:
 
@@ -36,5 +39,5 @@ A continuación, deberá seguir los siguentes pasos:
 5. Deberá dejar los valores por defecto y a continuación hacer clic en el botón `Execute`.
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-5.jpg" width="600">
 
-5. Si su certificado fue dado de alta satisfactoriamente, deberá visualizar algo parecido a lo mostrado en la imagen siguiente:
+6. Si su certificado fue dado de alta satisfactoriamente, deberá visualizar algo parecido a lo mostrado en la imagen siguiente:
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-6.jpg" width="600">
