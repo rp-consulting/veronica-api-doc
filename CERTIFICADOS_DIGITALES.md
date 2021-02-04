@@ -1,5 +1,7 @@
 # Certificados digitales
-A través de Verónica, usted podrá autogestionar sus certificados digitales de sus empresas. Dentro del conjunto de servicios de tipo RESTful, usted encontrará funcionalidades que le permitirán crear, listar o eliminar todas sus firmas electrónicas. Por cuestiones de seguridad, una vez creada una firma dentro del Verónica, usted ya no podrá descargarla.
+A través de Verónica, usted podrá autogestionar los certificados digitales de sus empresas. Dentro del conjunto de servicios de tipo RESTful, usted encontrará funcionalidades que le permitirán crear, listar o eliminar todas sus firmas electrónicas.
+
+Por cuestiones de seguridad, una vez creada una firma electrónica en Verónica, usted ya no podrá descargarla.
 
 Antes de poder empezar la emisión de comprobantes electrónicos, es importante que usted registre su archivo de firma electrónica asociado a su R.U.C. emisor. Para esto, por favor seguir los siguientes pasos:
 
