@@ -119,7 +119,7 @@ Para esto, se deberá seguir los siguiente pasos:
 5. También podemos utilizar la opción que retorna los archivos asociados a la factura. Por ejemplo, si queremos consultar el XML, bastará con realizar la siguiente acción:
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-facturas-5.jpg" width="600">
 
-7. Una vez ejecutada la solicitud, se podrá ver a continuación el XML de nuestro comprobante.
+7. Una vez especificada la clave de acceso, se podrá obtener el XML de nuestro comprobante.
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-facturas-6.jpg" width="600">
 
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-facturas-7.jpg" width="600">
