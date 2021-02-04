@@ -11,7 +11,7 @@ Para esto, se deberá seguir los siguiente pasos:
 
 3. Especificar los datos del comprobante, a continuación se muestra un ejemplo de factura en formato Json. En este objeto, deberá cambiar los campos `ruc`, `fechaEmision` y `secuencial` por su número de R.U.C., la fecha actual y el secuencial correspondiente.
 
-Otro campo importante a modificar es el correo del receptor de la factura en la sección `value` del final del objeto Json.
+   Otro campo importante a modificar es el correo del receptor de la factura en la sección `value` del final del objeto Json.
 ```json
 {
   "id":"comprobante",
