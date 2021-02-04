@@ -29,7 +29,7 @@ Antes de poder empezar la emisión de comprobantes electrónicos, es importante 
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-3.jpg" width="600">
 
 ## Lectura
-1. Una vez creado su certificado digital, usted podrá consultar si fue dado de alta exitosametne.
+1. Una vez creado su certificado digital, usted podrá consultar si fue dado de alta exitosamente. Para esto, seguir los siguientes pasos:
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-4.jpg" width="600">
 
 2. Deberá dejar los valores por defecto y a continuación hacer clic en el botón `Execute`.
