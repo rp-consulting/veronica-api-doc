@@ -9,9 +9,8 @@ Para esto, se deberá seguir los siguiente pasos:
 2. Hacer clic en el botón `Try it out`.
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-facturas-2.jpg" width="600">
 
-3. Especificar los datos del comprobante, a continuación se muestra un ejemplo de factura en formato Json. En este objeto, deberá cambiar los campos `ruc`, `fechaEmision` y `secuencial` por su número de R.U.C., la fecha actual y el secuencial correspondiente.
+3. Especificar los datos del comprobante utilizando el ejemplo de factura en formato Json mostrado a continuación. En este objeto, se deberá cambiar los campos `ruc`, `fechaEmision`, `secuencial` y `campoAdicional/value` por su número de R.U.C., la fecha actual, el secuencial correspondiente y el el correo del receptor de la factura.
 
-   Otro campo importante a modificar es el correo del receptor de la factura en la sección `value` del final del objeto Json.
 ```json
 {
   "id":"comprobante",
