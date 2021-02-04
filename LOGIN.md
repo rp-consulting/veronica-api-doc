@@ -22,6 +22,6 @@ Para realizar el proceso de autenticación en la interfaz de Swagger, por favor,
 
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-login-3.jpg" width="600">
 
-3. Si las credenciales fueron correctas, observará el cuadro de diálogo mostrado a continuación. En este punto, puede hacer clic en el botón `Close` puesto que ya estará habilitado para utilizar la plataforma de facturación.
+4. Si las credenciales fueron correctas, observará el cuadro de diálogo mostrado a continuación. En este punto, puede hacer clic en el botón `Close` puesto que ya estará habilitado para utilizar la plataforma de facturación.
 
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-login-4.jpg" width="600">
