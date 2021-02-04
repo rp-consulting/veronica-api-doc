@@ -15,3 +15,5 @@ Dentro del proceso de facturación electrónica de Ecuador, existen dos pasos im
 
 5. Especificaremos la clave de acceso y luego clic en el botón `Execute`. Si el comprobante está correcto, obtendremos el estado de `AUTORIZADO`.
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-sri-5.jpg" width="600">
+
+Si nuestro comprobante ha llegado a este punto, quiere decir que ya ha sido autorizado correctamente y tiene validez tributaria.
