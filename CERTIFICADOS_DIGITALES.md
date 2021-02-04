@@ -13,7 +13,7 @@ Antes de poder empezar la emisión de comprobantes electrónicos, es importante 
 
 3. Esto le habilitará la opción para indicar los valores asociados a su certificado digital. En este punto es importante contar con el archivo de extensión `.p12` así como la contraseña del mismo. A continuación, deberá seguir los siguentes pasos:
 
-3.1 Los valores indicados deberán ser llenados del siguiente modo:
+   3.1 Los valores indicados deberán ser llenados del siguiente modo:
 
 | Variable     | Descripción                                                 |
 | :----------- | :------------------------------------------------------------ |
@@ -21,9 +21,9 @@ Antes de poder empezar la emisión de comprobantes electrónicos, es importante 
 | `Descripción`      | Una breve descripción de su archivo, por ejemplo `Firma de pruebas` |
 | `Password`      | Contraseña del archivo de firma electrónica |
 
-3.2 Se deberá indicar también el número de R.U.C. al que se encuentra asociado dicho certificado de firma.
+   3.2 Se deberá indicar también el número de R.U.C. al que se encuentra asociado dicho certificado de firma.
 
-3.3 Finalmente, deberá hacer clic en el botón `Execute` para subir su firma electrónica.
+   3.3 Finalmente, deberá hacer clic en el botón `Execute` para subir su firma electrónica.
 
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-certificados-3.jpg" width="600">
 
