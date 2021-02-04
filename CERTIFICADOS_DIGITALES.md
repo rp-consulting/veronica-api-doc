@@ -15,11 +15,11 @@ Antes de poder empezar la emisión de comprobantes electrónicos, es importante 
 
    3.1 Los valores indicados deberán ser llenados del siguiente modo:
 
-| Variable     | Descripción                                                 |
-| :----------- | :------------------------------------------------------------ |
-| `Certificado`      | Archivo .p12 codificado en base 64 (https://www.browserling.com/tools/file-to-base64) |
-| `Descripción`      | Una breve descripción de su archivo, por ejemplo `Firma de pruebas` |
-| `Password`      | Contraseña del archivo de firma electrónica |
+   | Variable     | Descripción                                                 |
+   | :----------- | :------------------------------------------------------------ |
+   | `Certificado`      | Archivo .p12 codificado en base 64 (https://www.browserling.com/tools/file-to-base64) |
+   | `Descripción`      | Una breve descripción de su archivo, por ejemplo `Firma de pruebas` |
+   | `Password`      | Contraseña del archivo de firma electrónica |
 
    3.2 Se deberá indicar también el número de R.U.C. al que se encuentra asociado dicho certificado de firma.
 
