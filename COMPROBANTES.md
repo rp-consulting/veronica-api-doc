@@ -111,14 +111,12 @@ Para esto, se deberá seguir los siguiente pasos:
   ]
 }
 ```
-
-4. Si la ejecución fue correcta, se desplegará la clave de acceso del comprobante tal como se muestra a continuación. A partir de este momento, cualquier operación que se requiera hacer con la factura, se podrá realizar sólo indicando la clave de acceso.
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-facturas-3.jpg" width="600">
 
-5. También podemos utilizar la opción que retorna los archivos asociados a la factura, tal como se muestra en la imagen.
+4. Si la ejecución fue correcta, se desplegará la clave de acceso del comprobante tal como se muestra a continuación. A partir de este momento, cualquier operación que se requiera hacer con la factura, se podrá realizar sólo indicando la clave de acceso.
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-facturas-4.jpg" width="600">
 
-6. Por ejemplo, si queremos consultar el XML, bastará con realizar la siguiente acción:
+5. También podemos utilizar la opción que retorna los archivos asociados a la factura. Por ejemplo, si queremos consultar el XML, bastará con realizar la siguiente acción:
 <img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-facturas-5.jpg" width="600">
 
 7. Una vez ejecutada la solicitud, se podrá ver a continuación el XML de nuestro comprobante.
