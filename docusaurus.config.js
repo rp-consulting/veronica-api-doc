@@ -2,7 +2,7 @@ module.exports = {
   title: 'Verónica Api Documentación',
   tagline: 'Documentación de Verónica API',
   url: 'https://veronica.ec',
-  baseUrl: '/',
+  baseUrl: '/veronica-api-doc',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
