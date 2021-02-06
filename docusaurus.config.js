@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Verónica Api Documentación',
   tagline: 'Documentación de Verónica API',
-  url: 'https://veronica.ec',
-  baseUrl: '/veronica-api-doc',
+  url: 'https://rp-consulting.github.io',
+  baseUrl: '/veronica-api-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
