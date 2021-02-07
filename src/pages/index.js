@@ -8,38 +8,38 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Crear comprobantes',
+    title: 'Fácil de usar',
     imageUrl: 'img/crear.svg',
     description: (
       <>
-        Verónica API permite crear Facturas, Guías de remisión, Notas de crédito, Notas de débito, Comprobantes de retención y Liquidaciones de compra.
+        Veronica crea cualquier tipo de comprobante electrónico en formato JSON o XML.
       </>
     ),
   },
   {
-    title: 'Enviar comprobantes',
-    imageUrl: 'img/enviar.svg',
-    description: (
-      <>
-        Los comprobantes que son creados en Verónica API son enviados al SRI mediante el endpoint para envio de comprobantes.
-      </>
-    ),
-  },
-  {
-    title: 'Autorizar comprobantes',
+    title: 'Integración completa',
     imageUrl: 'img/autorizar.svg',
     description: (
       <>
-        Una vez los comprobantes son enviados al SRI, Verónica API permite autorizar estos comprobantes mediante el endpoint de autorización.
+        Veronica le permite enviar sus comprobantes ante el SRI de manera instantánea.
       </>
     ),
   },
   {
-    title: 'Consultar comprobantes',
+    title: 'Personalización',
+    imageUrl: 'img/enviar.svg',
+    description: (
+      <>
+        Verónica le permite notificar sus comprobantes a sus clientes de manera personalizada.
+      </>
+    ),
+  },
+  {
+    title: 'Disponibilidad',
     imageUrl: 'img/consultar.svg',
     description: (
       <>
-        Desde del momento de creación del comprobante electrónico puedes consultar el estado de todos tus comprobantes tanto en formato XML como en PDF.
+        Veronica almacena de manera segura sus comprobantes para ser consultados en el momento que lo precise.
       </>
     ),
   },

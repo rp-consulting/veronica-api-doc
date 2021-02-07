@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Verónica RESTful API',
-  tagline: 'Facturación electrónica en un solo paso',
+  tagline: 'La mejor experiencia en facturación electrónica',
   url: 'https://rp-consulting.github.io',
   baseUrl: '/veronica-api-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'rp-consulting', // Usually your GitHub org/user name.
+  organizationName: 'RP-Consulting', // Usually your GitHub org/user name.
   projectName: 'veronica-api-doc', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -27,7 +27,7 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} RP Consulting.`,
+      copyright: `Copyright © ${new Date().getFullYear()} | RP Consulting`,
     },
   },
   presets: [

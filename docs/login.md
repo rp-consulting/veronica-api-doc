@@ -1,11 +1,11 @@
 ---
 id: login
-title: Login
+title: Autenticación
 sidebar_label: Login
 slug: /
 ---
 
-`Verónica API` implementa, como parte de su proceso de autenticación, el estándar OAuth 2.0 con el flujo de propietario de la contraseña; esto quiere decir que para poder obtener un token que nos permita hacer uso de los distintos servicios RESTful, deberemos brindar un conjunto de credenciales que interacturán entre sí para autenticar al usuario. Estas credenciales se detallana a continuación y le serán brindadas al momento que solicite su alta a `Verónica API`. Si no las tiene o las olvidó, por favor contactarse a `support@rolandopalermo.com`.
+`Verónica API` implementa como parte de su proceso de autenticación, el estándar OAuth 2.0 con el flujo de propietario de la contraseña; esto quiere decir que para poder obtener un token que nos permita hacer uso de los distintos servicios RESTful, deberemos brindar un conjunto de credenciales que interacturán entre sí para autenticar al usuario. Estas credenciales que se detallan a continuación les serán brindadas al momento que solicite su alta a `Verónica API`. Si no las tiene o las olvidó, por favor contactarse a [support@rolandopalermo.com](mailto:support@rolandopalermo.com).
 ```
 Usuario
 Contraseña
