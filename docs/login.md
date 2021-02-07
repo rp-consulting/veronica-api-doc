@@ -5,15 +5,13 @@ sidebar_label: Login
 slug: /
 ---
 
-Verónica implementa para el proceso de autenticación, el protocolo OAuth2.0 con el flujo de propietario de la contraseña. Esto quiere decir que para poder obtener un token que nos permita hacer uso de la aplicación, deberemos brindar las siguientes credenciales:
+`Verónica API` implementa, como parte de su proceso de autenticación, el estándar OAuth 2.0 con el flujo de propietario de la contraseña; esto quiere decir que para poder obtener un token que nos permita hacer uso de los distintos servicios RESTful, deberemos brindar un conjunto de credenciales que interacturán entre sí para autenticar al usuario. Estas credenciales se detallana a continuación y le serán brindadas al momento que solicite su alta a `Verónica API`. Si no las tiene o las olvidó, por favor contactarse a `support@rolandopalermo.com`.
 ```
 Usuario
 Contraseña
 Identificador de cliente
 Contraseña de cliente
 ```
-Estas credenciales le serán brindadas al momento que solicite su alta a la plataforma. Si no las tiene o las olvidó, por favor contactarse a `support@rolandopalermo.com`.
-
 Para realizar el proceso de autenticación en la interfaz de Swagger, por favor, realizar los siguiente pasos:
 
 1. Hacer clic en el botón `Authorize`, tal como se muestra en la figura.

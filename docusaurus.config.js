@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Verónica Api Documentación',
-  tagline: 'Documentación de Verónica API',
+  title: 'Verónica RESTful API',
+  tagline: 'Facturación electrónica en un solo paso',
   url: 'https://rp-consulting.github.io',
   baseUrl: '/veronica-api-doc/',
   onBrokenLinks: 'throw',
@@ -27,7 +27,7 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} Verónica API, Inc. Construido con Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} RP Consulting.`,
     },
   },
   presets: [
