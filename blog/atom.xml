@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rp-consulting.github.io/blog</id>
-    <title>Verónica Api Documentación Blog</title>
+    <title>Verónica RESTful API Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rp-consulting.github.io/blog"/>
-    <subtitle>Verónica Api Documentación Blog</subtitle>
+    <subtitle>Verónica RESTful API Blog</subtitle>
     <icon>https://rp-consulting.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
