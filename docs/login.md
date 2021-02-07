@@ -18,16 +18,16 @@ Para realizar el proceso de autenticación en la interfaz de Swagger, por favor,
 
 1. Hacer clic en el botón `Authorize`, tal como se muestra en la figura.
 
-<img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-login-1.jpg" width="600"/>
+<img src="https://i.imgur.com/ErHWy2Q.png"/>
 
 2. Ingresar las credenciales correspondientes a su usuario.
 
-<img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-login-2.jpg" width="600"/>
+<img src="https://i.imgur.com/gaIOQFE.png"/>
 
 3. Hacer clic en el botón `Authorize`, tal como se muestra a continuación.
 
-<img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-login-3.jpg" width="600"/>
+<img src="https://i.imgur.com/zwNWMJn.png"/>
 
 4. Si las credenciales fueron correctas, observará el cuadro de diálogo mostrado a continuación. En este punto, puede hacer clic en el botón `Close` puesto que ya estará habilitado para utilizar la plataforma de facturación.
 
-<img src="https://raw.githubusercontent.com/rp-consulting/veronica-api-doc/main/static/veronica-login-4.jpg" width="600"/>
+<img src="https://i.imgur.com/RTrCG0z.png"/>
