@@ -36,3 +36,12 @@
   width: 100px;
   margin: 25px 0 25px 0;
 }
+
+.customerImage {
+  height: 100px;
+  width: 100px;
+}
+
+.getStarted {
+  background-color: white;
+}

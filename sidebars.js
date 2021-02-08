@@ -1,5 +1,20 @@
 module.exports = {
   someSidebar: {
-    Documentación: ['login', 'comprobantes', 'certificados_digitales', 'notificaciones', 'sri'],
+    General: [
+      "contenidos", 
+      "faqs",
+    ],
+    "Autenticación": [
+      "autenticacion/oauth2",
+      "autenticacion/swagger",
+    ],
+    "Certificados Digitales": [
+      "certificados/creacion",
+      "certificados/consulta",
+      "certificados/eliminacion",
+    ],
+    "Paginación": [
+      "paginacion/paginacion",
+    ],
   },
 };

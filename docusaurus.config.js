@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Verónica RESTful API',
-  tagline: 'La mejor experiencia en facturación electrónica',
+  title: 'Verónica API',
+  tagline: 'La mejor experiencia en facturación electrónica del Ecuador',
   url: 'https://rp-consulting.github.io',
   baseUrl: '/veronica-api-doc/',
   onBrokenLinks: 'throw',
@@ -13,7 +13,7 @@ module.exports = {
       title: 'Verónica API',
       logo: {
         alt: 'Logo de Verónica',
-        src: 'img/logo.png',
+        src: 'img/logo.svg',
       },
       items: [
         {
@@ -27,7 +27,11 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} | RP Consulting`,
+      copyright: `Copyright © ${new Date().getFullYear()} RP Consulting`,
+    },
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
     },
   },
   presets: [
