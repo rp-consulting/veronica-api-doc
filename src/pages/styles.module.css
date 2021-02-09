@@ -45,3 +45,24 @@
 .getStarted {
   background-color: white;
 }
+
+.title {
+  text-align: center;
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+}
+
+.customers {
+  display: grid;
+  justify-content: center;
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+}
+
+.overview {
+  color: white;
+  background-color: #0b54a5;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
