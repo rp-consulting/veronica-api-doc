@@ -1,4 +1,4 @@
-import React from 'react';
+lkimport React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -72,7 +72,7 @@ function Customers({}) {
     <div className="container">
       <div className="row mt-4">
         <div className="col heading font_large text--black text--center">
-          <h3>Empresas que confian en nosotros</h3>
+          <h2>Empresas que confian en nosotros</h2>
           </div>
           </div>
           <div className="row text-center align-items-center ml-2 mr-2">
@@ -84,6 +84,20 @@ function Customers({}) {
             </div>
                 )
             )}
+      </div>
+    </div>
+  );
+}
+
+function Overview({}) {
+  return (
+    <div className="container">
+      <div className="row mt-4">
+        <div className="col heading font_large text--black text--center">
+          <h2>¿Por qué somos la API de facturación electrónica más completa?</h2>
+          Verónica API está diseñada para integrarse con cualquier lenguaje de programación y/o flujo de trabajo. Su diseño desacoplado, modular y basado en estándares brinda a los usuarios la capacidad de elegir qué componentes utilizar dentro de sus procesos contables.
+          <img src="https://i.imgur.com/2KlcAcI.png"/>
+        </div>
       </div>
     </div>
   );
@@ -123,6 +137,9 @@ function Home() {
               </div>
               <div className="row">
                 <Customers></Customers>
+              </div>
+              <div className="row">
+                <Overview></Overview>
               </div>
             </div>
           </section>
