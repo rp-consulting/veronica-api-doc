@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[31],{99:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/veronica-api-doc/blog/welcome"},{"title":"Hello","permalink":"/veronica-api-doc/blog/hello-world"},{"title":"Hola","permalink":"/veronica-api-doc/blog/hola"}]}')}}]);
