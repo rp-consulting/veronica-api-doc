@@ -6,11 +6,35 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg833"
    width="2382.158"
    height="1302.6667"
-   viewBox="0 0 2382.1578 1302.6667">
+   viewBox="0 0 2382.1578 1302.6667"
+   sodipodi:docname="overview.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="0.42692383"
+     inkscape:cx="1122.634"
+     inkscape:cy="733.30338"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g841" />
   <metadata
      id="metadata839">
     <rdf:RDF>
@@ -19,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -172,16 +196,16 @@
        y="270.70007"
        ry="14.087787" />
     <path
-       style="fill:none;stroke:#013870;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 355,305 h 90 45 v 50"
+       style="fill:none;stroke:#013870;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2752)"
+       d="m 369.90655,305 h 90 45 v 50"
        id="path1958" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;fill:#013870;fill-opacity:1;stroke:none"
-       x="132.53174"
+       x="146.46944"
        y="387.2988"
        id="text1962"><tspan
-         x="132.53174"
+         x="146.46944"
          y="387.2988"
          style="font-size:20px;fill:#013870;fill-opacity:1"
          id="tspan1964">Contamos con más de 8 años de experiencia en facturación electrónica</tspan></text>
