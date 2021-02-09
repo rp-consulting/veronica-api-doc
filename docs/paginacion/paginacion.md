@@ -4,7 +4,7 @@ title: Paginación
 sidebar_label: Paginación
 ---
 
-```shell
+```json
 {
   "success": true,
   "result": {
