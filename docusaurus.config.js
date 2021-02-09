@@ -27,7 +27,7 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} RP Consulting`,
+      copyright: `Copyright © ${new Date().getFullYear()} | RP Consulting`,
     },
     colorMode: {
       defaultMode: 'light',

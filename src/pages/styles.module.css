@@ -60,9 +60,16 @@
 }
 
 .overview {
-  color: white;
-  background-color: #0b54a5;
+  /* color: white; */
+  background-color: #ecf5ff;
   background-size: cover;
   position: relative;
   overflow: hidden;
+}
+
+.image_overview {
+  /* color: white; */
+  display:block;
+  margin:auto;
+  width: 1500px;
 }

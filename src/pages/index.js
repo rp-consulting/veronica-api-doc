@@ -65,7 +65,7 @@ function Customers() {
   return (
     <div className="container">
       <div className={styles.title}>
-        <h2>Empresas que confian en nosotros</h2>
+        <h2>Empresas que confían en nosotros</h2>
       </div>
       <div className={styles.customers}>
         {supporters.map((s, i) => (
@@ -81,20 +81,21 @@ function Customers() {
 }
 
 function Overview() {
+  const imgUrl = useBaseUrl('img/overview.png');
   return (
     <div className={styles.overview}>
       <h2 className={styles.title}>
         ¿Por qué somos la API de facturación electrónica más completa?
       </h2>
       <div className="container">
-      <p>
-        Verónica API está diseñada para integrarse con cualquier lenguaje de
-        programación y/o flujo de trabajo. Su diseño desacoplado, modular y
-        basado en estándares brinda a los usuarios la capacidad de elegir qué
-        componentes utilizar dentro de sus procesos contables.
-      </p>
-      <img src="https://i.imgur.com/2KlcAcI.png" />
+        <p>
+          Verónica API está diseñada para integrarse con cualquier lenguaje de
+          programación y/o flujo de trabajo. Su diseño desacoplado, modular y
+          basado en estándares brinda a los usuarios la capacidad de elegir qué
+          componentes utilizar dentro de sus procesos contables.
+        </p>
       </div>
+      <img src={imgUrl} className={styles.image_overview}/>
     </div>
   );
 }

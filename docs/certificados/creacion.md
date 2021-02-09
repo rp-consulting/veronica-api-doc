@@ -10,10 +10,10 @@ Sólo se puede tener un solo certificado digital asociado a un número de R.U.C.
 
 Los certificados digitales son los componentes que nos permitirán firmar electrónicamente nuestros comprobantes fiscales. Dentro del conjunto de servicios RESTful de Verónica, usted encontrará la sección de `Certificados digitales`, la cual se encarga de gestionar estos componentes; para esto debemos seguir los siguientes pasos:
 
-* Haga clic en `1`, se desplegarán las distintas operaciones que se pueden realizar sobre los archivos de firma digital.
+* Haciendo clic `1`, se desplegarán las distintas operaciones que se pueden realizar sobre los archivos de firma digital.
 <img src="https://i.imgur.com/dDxR2WQ.png"/>
 
-* Seleccionar la opción que se muestra en `2`.
+* Seleccionar la opción de creación tal como se muestra en `2`.
 <img src="https://i.imgur.com/rgCSgHK.png"/>
 
 * A continuación, debemos hacer clic en el botón `Try it out` tal como se muestra en `3`. Esto nos desplegará un panel en donde se visualizarán los campos que se requieren para la creación de un certificado digital.
