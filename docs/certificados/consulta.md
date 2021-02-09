@@ -19,7 +19,7 @@ Veronica API pone a disposición de sus usuarios un servicio RESTful a través d
 * Los valores ingresados en `4` y `5` no son requeridos, sin embargo le permitirán paginar la respuesta de Verónica siendo esto muy recomendable cuando una cuenta de usuario administra muchas empresas. En caso no requiera la paginación, puede ejecutar el servicio RESTful directamente haciendo clic en el botón `6`.
 <img src="https://i.imgur.com/2xk2RmZ.png"/>
 
-* Una vez ejecutada la solicitud al servicio RESTful, usted obtendrá una lista con todos los certificados digitales asociados a su cuenta de usuario, tal como se puede apreciar en `7`. Esta lista incluirá la información básica del los certificados, tales como el id, el R.U.C. al que se encuentra asociado, la descripción del certificado y la fecha de expiración.
+* Una vez ejecutada la solicitud al servicio RESTful, usted obtendrá una lista con todos los certificados digitales asociados a su cuenta de usuario, tal como se puede apreciar en `7`. Esta lista incluirá la información básica del los certificados, tales como el id, el R.U.C. al que se encuentra asociado, la descripción del certificado y la fecha de expiración del mismo.
 
 :::caution ADVERTENCIA
 Por cuestiones de seguridad, ningún certificado digital subido a Verónica podrá ser descargado ni manipulado en ninguna forma.
